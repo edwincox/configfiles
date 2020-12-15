@@ -1,2 +1,5 @@
 my:
   greeting: Hello World from config server
+
+user:
+  name: edwincox
